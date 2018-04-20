@@ -8,9 +8,9 @@ All data was collected from [here](http://www.football-data.co.uk/mmz4281/1617/E
 
 ### Notebook
 
-All work is stored in [bayes_soccer.ipynb](https://github.com/robertdefilippi/traffic-bayes/blob/master/traffic.ipynb) while a blog post was generated to go over the higher level aspects of the project.
+All work is stored in [bayes_soccer.ipynb](https://github.com/robertdefilippi/soccer-bayes/blob/master/bayes_soccer.ipynb) while a blog post was generated to go over the higher level aspects of the project.
 
-The blog can be read [here](https://medium.com/@rrfd/bayesian-analysis-for-traffic-patterns-480e71a680ab).
+The medium blog article can be read [here](https://medium.com/@rrfd/simple-bayes-modelling-with-python-and-bonus-skellem-distribution-da7272d6ca24). It's best to go over the article as the notebook does not go over the analysis of different parts of the project.
 
 ### Citations
 
