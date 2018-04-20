@@ -1,6 +1,6 @@
 # Estimating Poisson Distributions from Soccer Scores
 
-![Title](https://github.com/robertdefilippi/traffic-bayes/blob/master/traffic_image.png?raw=true)
+![Title](https://github.com/robertdefilippi/soccer-bayes/blob/master/title.png?raw=true)
 
 A short notebook on how to estimate Poisson Distributions using Bayesian methods.
 
